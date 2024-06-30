@@ -4,7 +4,7 @@ It is an advancement of a simple Sentiment Analysis Project which has the capaci
 
 ## Clone Project By Running Command in Terminal:
 ```
-git clone https://github.com/nityakapur/Emotion-Recognition-BiLSTMs
+git clone https://github.com/nityakapur/Emotion-Recognition-BiLSTMs.git
 ```
 
 ## Dataset Link: 
